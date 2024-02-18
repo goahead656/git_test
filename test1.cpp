@@ -7,6 +7,7 @@ const double eps=1e-9;
 
 int main()
 {
+    double test=0;
     double t=18;
     double t_1=5;
     double s_2=600;
